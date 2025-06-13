@@ -17,6 +17,6 @@ Training and testing codes are in the current folder.
 
 -   The scripts of code is in `./scripts`, please navigate to the script workspace by running `cd ./scriptt`
 
--   For training, you also need to set the `is_training = 0` in the `main.py` to match your testing dataset. Then, run `bash ./R`
+-   For training, you also need to set the `is_training = 1` in the `main.py` to match your testing dataset. Then, run `bash ./Run.sh`
 
 -   For testing, you also need to set the `is_training = 0` in the `main.py` to match your testing dataset. 
